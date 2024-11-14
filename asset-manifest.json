@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//moairairang.github.io/DogBootUI/static/css/main.57d74ca7.css",
+    "main.js": "/https//moairairang.github.io/DogBootUI/static/js/main.d345484f.js",
+    "static/js/453.785134cd.chunk.js": "/https//moairairang.github.io/DogBootUI/static/js/453.785134cd.chunk.js",
+    "index.html": "/https//moairairang.github.io/DogBootUI/index.html",
+    "main.57d74ca7.css.map": "/https//moairairang.github.io/DogBootUI/static/css/main.57d74ca7.css.map",
+    "main.d345484f.js.map": "/https//moairairang.github.io/DogBootUI/static/js/main.d345484f.js.map",
+    "453.785134cd.chunk.js.map": "/https//moairairang.github.io/DogBootUI/static/js/453.785134cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57d74ca7.css",
+    "static/js/main.d345484f.js"
+  ]
+}
