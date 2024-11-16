@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DogBootUI/static/css/main.57d74ca7.css",
-    "main.js": "/DogBootUI/static/js/main.1124e3b1.js",
-    "static/js/453.785134cd.chunk.js": "/DogBootUI/static/js/453.785134cd.chunk.js",
-    "index.html": "/DogBootUI/index.html",
-    "main.57d74ca7.css.map": "/DogBootUI/static/css/main.57d74ca7.css.map",
-    "main.1124e3b1.js.map": "/DogBootUI/static/js/main.1124e3b1.js.map",
-    "453.785134cd.chunk.js.map": "/DogBootUI/static/js/453.785134cd.chunk.js.map"
+    "main.css": "/DogBotUI/static/css/main.57d74ca7.css",
+    "main.js": "/DogBotUI/static/js/main.001c2295.js",
+    "static/js/453.785134cd.chunk.js": "/DogBotUI/static/js/453.785134cd.chunk.js",
+    "index.html": "/DogBotUI/index.html",
+    "main.57d74ca7.css.map": "/DogBotUI/static/css/main.57d74ca7.css.map",
+    "main.001c2295.js.map": "/DogBotUI/static/js/main.001c2295.js.map",
+    "453.785134cd.chunk.js.map": "/DogBotUI/static/js/453.785134cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57d74ca7.css",
-    "static/js/main.1124e3b1.js"
+    "static/js/main.001c2295.js"
   ]
 }
