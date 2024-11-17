@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DogBotUI/static/css/main.57d74ca7.css",
-    "main.js": "/DogBotUI/static/js/main.001c2295.js",
+    "main.css": "/DogBotUI/static/css/main.66552885.css",
+    "main.js": "/DogBotUI/static/js/main.0dae49dc.js",
     "static/js/453.785134cd.chunk.js": "/DogBotUI/static/js/453.785134cd.chunk.js",
     "index.html": "/DogBotUI/index.html",
-    "main.57d74ca7.css.map": "/DogBotUI/static/css/main.57d74ca7.css.map",
-    "main.001c2295.js.map": "/DogBotUI/static/js/main.001c2295.js.map",
+    "main.66552885.css.map": "/DogBotUI/static/css/main.66552885.css.map",
+    "main.0dae49dc.js.map": "/DogBotUI/static/js/main.0dae49dc.js.map",
     "453.785134cd.chunk.js.map": "/DogBotUI/static/js/453.785134cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57d74ca7.css",
-    "static/js/main.001c2295.js"
+    "static/css/main.66552885.css",
+    "static/js/main.0dae49dc.js"
   ]
 }
